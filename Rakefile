@@ -2,8 +2,11 @@ desc "Parse haml layouts"
 task :haml do
   print "Parsing Haml layouts..."
   system(%{
-    cd _layouts/ && 
-    for f in *.haml; do [ -e $f ] && haml $f ${f%.haml}.html; done
+    cd _layouts/ &&
+    for f in haml/*.haml; do
+      o=${f##*/};
+      [ -e $f ] && haml $f ${o%.haml}.html;
+    done
   })
   puts "done."
 end

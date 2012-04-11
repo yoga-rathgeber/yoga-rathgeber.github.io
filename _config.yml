@@ -1,3 +1,11 @@
 markdown: rdiscount
 pygments: true
-exclude: Gemfile*, Rakefile, config.rb 
+exclude: Gemfile*, Procfile, Rakefile, Readme, config.rb
+
+# Site configuration
+domain: johndoe.com
+title: John Doe's Blog
+author: John Doe
+email: me@johndoe.com
+feedurl: http://johndoe.com/atom.xml
+analytics_id: UA-xxxxxxxx-x

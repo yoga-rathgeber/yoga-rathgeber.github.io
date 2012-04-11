@@ -11,11 +11,6 @@ task :haml do
   puts "done."
 end
 
-desc "synchronize with S3"
-task :sync do
-  system "s3cmd sync --rr --delete-removed _site/ s3://robin.wenglewski.de"
-end
-
 desc "Launch preview environment"
 task :preview => [:haml, :clean] do
   system "jekyll --auto --server"
@@ -31,7 +26,7 @@ task :clean do
 end
 
 
-namespace :compass do  
+namespace :compass do
 
   desc 'Delete temporary compass files'
   task :clean do
@@ -47,5 +42,5 @@ namespace :compass do
   task :compile => [:clean] do
     system "compass compile"
   end
-  
+
 end

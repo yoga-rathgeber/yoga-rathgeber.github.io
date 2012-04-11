@@ -5,10 +5,10 @@ permalink: :title
 
 # Site configuration
 baseurl: /
-url: http://johndoe.com
-domain: johndoe.com
-title: John Doe's Blog
-author: John Doe
-email: me@johndoe.com
+url: http://yoga-rathgeber.de
+domain: yoga-rathgeber.de
+title: Gabi Rathgeber - Yoga im Aischgrund
+author: Gabriele Rathgeber
+email: gabi@yoga-rathgeber.de
 feedurl: atom.xml
 analytics_id: UA-xxxxxxxx-x

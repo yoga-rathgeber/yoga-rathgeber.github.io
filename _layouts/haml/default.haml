@@ -9,16 +9,12 @@
     %link{:rel => "stylesheet", :href => "/stylesheets/screen.css", :type => "text/css"}
 
   %body
-    #rw-topline
-      .title
+    #container
+      #header
+      #content
+        == {{ content }}
+      #sidebar
         %a{:href => '/'} {{ site.title }}
-      .nav
-        %a{:href => '/'} Start
-    #rw-topline-flow
-    %div.site
-      %div.header
-      == {{ content }}
-
 
   :javascript
     var _gaq = _gaq || [];

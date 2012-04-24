@@ -1,6 +1,6 @@
 markdown: rdiscount
 pygments: true
-exclude: Gemfile*, Procfile, Rakefile, Readme, config.rb
+exclude: Gemfile, Gemfile.lock, Procfile, Rakefile, Readme, config.rb, sass
 
 # Site configuration
 domain: johndoe.com

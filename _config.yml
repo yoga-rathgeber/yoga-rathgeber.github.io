@@ -3,6 +3,7 @@ pygments: true
 exclude: Gemfile, Gemfile.lock, Procfile, Rakefile, Readme, config.rb, sass
 
 # Site configuration
+baseurl: /
 domain: johndoe.com
 title: John Doe's Blog
 author: John Doe

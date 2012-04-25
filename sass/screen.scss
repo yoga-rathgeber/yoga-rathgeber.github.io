@@ -18,9 +18,8 @@
 // what pages use blueprint when stylesheets are concatenated together.
 body {
 
-  padding-left: .5em;
   margin: 0;
-  font:1em "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1em;
   color:$text_dark;
   font-weight: normal;
 }
@@ -31,29 +30,33 @@ form {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
-  @include text-shadow(1px 2px 1px rgba(0,0,0,.5));
   font-weight: normal;
+  margin:0 0 .25em;
 }
 
-p, ul, ol, table, pre, dl {
+p, ul, ol {
+  font-size: 1.25em;
   margin:0 0 1em;
 }
 
 h1, h2, h3 {
   color:$dark_2;
-  line-height:1.1;
+  line-height: 1.5em;
 }
 
 h1 {
-  font-size:2;
+  font-size:3em;
+  @include text-shadow(1px 2px 1px rgba(0,0,0,.5));
 }
 
 h2 {
-  font-size: 1.75;
+  font-size: 2em;
+  @include text-shadow(1px 1px 0px rgba(0,0,0,.5));
 }
 
 h3 {
-  font-size: 1.5;
+  font-size: 1.75em;
+  font-weight: bold;
 }
 
 a {
@@ -71,7 +74,7 @@ a {
 }
 
 a small {
-  font-size:0.75;
+  font-size:0.75em;
   margin-top:-0.6em;
   display:block;
 }
@@ -88,7 +91,7 @@ strong {
 blockquote {
   border-left:3px solid $text_light;
   margin:0;
-  padding:0 0 0 2;
+  padding:0 0 0 2em;
   font-style:italic;
 }
 
@@ -126,7 +129,7 @@ blockquote {
   }
 
   nav {
-    padding: 1em 1em;
+    padding: 1em;
     margin: .5 auto;
 
     li {
@@ -149,8 +152,7 @@ blockquote {
 
 #content {
   @include column($content-columns);
-  padding: 30px 0px 50px 0px;
-  margin: 20px 0;
+  padding: .5em .5em 0 1em;
   margin-top: $header_height;
 
   img {

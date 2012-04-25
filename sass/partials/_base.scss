@@ -2,6 +2,8 @@
 // Feel free to delete these if you want keep the defaults:
 
 $blueprint-grid-columns: 24;
+$content-columns: 18;
+$sidebar-columns: 6;
 $blueprint-container-size: 950px;
 $blueprint-grid-margin: 10px;
 
@@ -21,4 +23,7 @@ $text_light: #ffcc00;
 $accent_light: #ffeb9b;
 $link: #6C006C;
 $link_hover: #7C1F7C;
+
+// Header
+$header_height: 4em;
 

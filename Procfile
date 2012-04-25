@@ -1,2 +1,2 @@
-jekyll:  jekyll --server --auto
+jekyll:  rake preview
 comapss: compass watch

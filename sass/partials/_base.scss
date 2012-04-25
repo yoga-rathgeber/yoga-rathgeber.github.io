@@ -8,3 +8,17 @@ $blueprint-grid-margin: 10px;
 // Use this to calculate the width based on the total width.
 // Or you can set $blueprint-grid-width to a fixed value and unset $blueprint-container-size -- it will be calculated for you.
 $blueprint-grid-width: ($blueprint-container-size + $blueprint-grid-margin) / $blueprint-grid-columns - $blueprint-grid-margin;
+
+// Colors
+// Colorscheme: http://colorschemedesigner.com/#2m31Ew0w0w0w0
+$base: #9fee00;
+$dark_1: #86b32d;
+$dark_2: #679b00;
+$light_1: #b9f73e;
+$light_2: #c9f76f;
+$text_dark: #2a2a2a;
+$text_light: #ffcc00;
+$accent_light: #ffeb9b;
+$link: #6C006C;
+$link_hover: #7C1F7C;
+

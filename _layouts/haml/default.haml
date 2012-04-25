@@ -27,6 +27,7 @@
         %h1 {{ page.title }}
         == {{ content }}
       #sidebar
+        %img{:src => "images/sidebar.jpg"}
         %nav
           == {% for cat in (page.sidebar_cats) %}
           %li

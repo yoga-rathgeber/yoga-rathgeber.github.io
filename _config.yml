@@ -1,6 +1,7 @@
 markdown: rdiscount
 pygments: true
 exclude: Gemfile, Gemfile.lock, Procfile, Rakefile, Readme, config.rb, sass
+permalink: :title
 
 # Site configuration
 baseurl: /

@@ -3,10 +3,7 @@
   sidebar_cats:
   - gruppenunterricht
   - einzelunterricht
-  - tradition
   - qualifikation
-  - kontakt
-  - links
   ---
 !!!5
 %html
@@ -29,6 +26,8 @@
       #sidebar
         %img{:src => "images/sidebar.jpg"}
         %nav
+          %li
+            %a{:href => "/"} Home
           == {% for cat in (page.sidebar_cats) %}
           %li
             %a{:href => "{{ cat }}"} {{ cat | replace:'_',' ' | capitalize }}

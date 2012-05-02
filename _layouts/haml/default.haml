@@ -16,22 +16,24 @@
     %link{:rel => "stylesheet", :href => "stylesheets/screen.css", :type => "text/css"}
 
   %body
-    #header
-      %h1
-        %a{:href => ''} {{ site.title }}
     #container
+      #header
+        #title
+          %h1
+            %a{:href => ''} {{ site.title }}
+          %h2 {{ site.subtitle }}
+          %nav
+            %li
+              %a{:href => "/"} Home
+            == {% for cat in (page.sidebar_cats) %}
+            %li
+              %a{:href => "{{ cat }}"} {{ cat | replace:'_',' ' | capitalize }}
+            == {% endfor %}
+        #logo
+          %img{:src => "images/sidebar.jpg"}
       #content
         %h1 {{ page.title }}
         == {{ content }}
-      #sidebar
-        %img{:src => "images/sidebar.jpg"}
-        %nav
-          %li
-            %a{:href => "/"} Home
-          == {% for cat in (page.sidebar_cats) %}
-          %li
-            %a{:href => "{{ cat }}"} {{ cat | replace:'_',' ' | capitalize }}
-          == {% endfor %}
 
   :javascript
     var _gaq = _gaq || [];

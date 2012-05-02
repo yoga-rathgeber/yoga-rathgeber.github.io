@@ -2,7 +2,7 @@
 // Feel free to delete these if you want keep the defaults:
 
 $blueprint-grid-columns: 24;
-$content-columns: 16;
+$content-columns: 17;
 $sidebar-columns: 6;
 $blueprint-container-size: 950px;
 $blueprint-grid-margin: 10px;
@@ -25,5 +25,6 @@ $link: #6C006C;
 $link_hover: #7C1F7C;
 
 // Header
-$header_height: 4em;
+$header_height: 9em;
+$header_offset: 1.5em;
 

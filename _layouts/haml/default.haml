@@ -30,7 +30,6 @@
               %a{:href => "{{ cat }}"} {{ cat | replace:'_',' ' | capitalize }}
             == {% endfor %}
         #logo
-          %img{:src => "images/sidebar.jpg"}
       #content
         %h1 {{ page.title }}
         == {{ content }}

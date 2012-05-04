@@ -156,6 +156,12 @@ blockquote {
   padding: 2em;
   margin-top: $header_height+$header_offset;
 
+  #center p {
+    text-align: center;
+    font-size: 2em;
+    color: $link;
+  }
+
   img {
     max-width: 100%;
   }

@@ -28,7 +28,7 @@
           %h2 {{ site.subtitle }}
           %nav
             %li
-              %a{:href => "/"} Home
+              %a{:href => "{{ site.baseurl }}"} Home
             {% for cat in (page.sidebar_cats) %}
             %li
               %a{:href => "{{ cat }}"} {{ cat | replace:'_',' ' | capitalize }}

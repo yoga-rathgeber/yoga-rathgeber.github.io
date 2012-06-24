@@ -28,3 +28,8 @@ $link_hover: #7C1F7C;
 $header_height: 9em;
 $header_offset: 1.5em;
 
+$logo_border: .5em; //8px;
+$logo_width: 15em; //240px;
+$logo_height: 11.25em; //180px;
+
+$content_margin: max($header_height+$header_offset, $logo_height+2*$logo_border)

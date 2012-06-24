@@ -12,7 +12,7 @@ Beim Berufsverband deutscher Yogalehrer wurde ich von unterschiedlichen Lehrerin
 
 ## Meine Weiterbildungen:
 
-Seit 1997 besuche ich kontinuierlich Weiterbildungen und Supervisionen bei meinen Lehrern Dr. Imogen Dalmann und Martin Soder. Beide sind Ärzte und leiten das [Berliner Yoga Zentrum](http://byz.de).
+Seit 1997 besuche ich kontinuierlich Weiterbildungen und Supervisionen bei meinen Lehrern **Dr. Imogen Dalmann** und **Martin Soder**. Beide sind Ärzte und leiten das [Berliner Yoga Zentrum](http://byz.de).
 
 ### Inhalte der Weiterbildungen
 

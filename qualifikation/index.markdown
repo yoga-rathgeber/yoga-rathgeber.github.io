@@ -3,12 +3,12 @@ layout: default
 title: Meine Qualifikation
 ---
 
-* Yogalehrerin BDY/EYU
+* Yogalehrerin [BDY](http://yoga.de)/[EYU](http://yogaeurop.com)
 * Zertifikat für individuelle Yogabegleitung
 
 ## Meine Ausbildung
 
-Beim Berufsverband deutscher Yogalehrer wurde ich von unterschiedlichen Lehrerinnen und Lehrern ausgebildet. Die Prüfung zur Yogalehrerin BDY/EYU legte ich 1996 ab.
+Beim Berufsverband deutscher Yogalehrer wurde ich von unterschiedlichen Lehrerinnen und Lehrern ausgebildet. Die Prüfung zur Yogalehrerin [BDY](http://yoga.de)/[EYU](http://yogaeurop.com) legte ich 1996 ab.
 
 ## Meine Weiterbildungen:
 

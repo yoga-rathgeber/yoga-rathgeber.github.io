@@ -178,14 +178,23 @@ blockquote {
 
 #body {
   height: 100%;
+  overflow: auto;
 }
 
 #content {
   @include column($content-columns);
-  overflow: auto;
 
   #article {
     padding: $content_margin 2em 0 2em;
+  }
+
+  #footer {
+    bottom: 0;
+    padding: 1em 2em 0 2em;
+    p {
+      font-size: .8em;
+      text-align: center;
+    }
   }
 
   #center p {

@@ -20,3 +20,10 @@ Seit 1997 besuche ich kontinuierlich Weiterbildungen und Supervisionen bei meine
 * Yogaphilosophie (Yogasutra von Patanjali)
 * Meditation
 * Zertifikat für individuelle Yogabegleitung
+
+## Literaturempfehlung
+
+Herausgegeben von meinen Lehrern **Dr. Imogen Dalmann** und **Martin Soder**:
+
+* [Viveka](http://viveka.de/)
+* [Warum Yoga?](http://www.warumyoga.de/)

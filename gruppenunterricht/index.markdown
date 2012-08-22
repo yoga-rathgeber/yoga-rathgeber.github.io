@@ -11,8 +11,21 @@ Auch spezielle Atemübungen oder auch kleine Meditationen können je nach Intere
 
 Die Kurse werden von den meisten Krankenkassen bezuschusst.
 
-## Kurstage und Kurszeiten
+## Herbstkurse
 
-**Mittwoch:** 10:30 - 12:00 Uhr  
-**Donnerstag:** 18:15 - 19:45 Uhr und 20:00 - 21:30 Uhr  
-**Freitag:** 8:30 - 10:00 Uhr und 10:15 - 11:45 Uhr
+### Kurstage und Kurszeiten
+
+<table>
+<tr><th>Mittwoch</th><td>10:30-12:00 Uhr (ab 26.09.2012)</td></tr>
+<tr><th>Donnerstag</th><td>18:15-19:45 Uhr und 20:00-21:30 Uhr (ab 27.09.2012)</td></tr>
+<tr><th>Freitag</th><td>8:30-10:00 Uhr und 10:15-11:45 Uhr (ab 28.09.2012)</td></tr>
+</table>
+
+### Kursort
+
+Katholisches Pfarrzentrum  
+Hauptstraße 12  
+91325 Adelsdorf
+
+<iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+src="https://maps.google.com/maps?f=q&source=s_q&hl=de&geocode=&q=katholisches+pfarrzentrum,+adelsdorf&aq=&sll=37.0625,-95.677068&sspn=61.969195,50.185547&ie=UTF8&hq=katholisches+pfarrzentrum,&hnear=Adelsdorf,+Mittelfranken,+Bayern,+Deutschland&ll=49.713847,10.895731&spn=0.050337,0.049009&t=m&z=14&iwloc=A&cid=12928057610194498948&output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&source=embed&hl=de&geocode=&q=katholisches+pfarrzentrum,+adelsdorf&aq=&sll=37.0625,-95.677068&sspn=61.969195,50.185547&ie=UTF8&hq=katholisches+pfarrzentrum,&hnear=Adelsdorf,+Mittelfranken,+Bayern,+Deutschland&ll=49.713847,10.895731&spn=0.050337,0.049009&t=m&z=14&iwloc=A&cid=12928057610194498948">Größere Kartenansicht öffnen</a></small>

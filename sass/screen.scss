@@ -156,6 +156,7 @@ blockquote {
 
   #logo {
     @include column($sidebar-columns, true);
+    z-index: 3;
     position: relative;
     top: -$header_offset;
     width: $logo_width;
@@ -163,6 +164,19 @@ blockquote {
     border: $logo_border solid #cccccc;
     @include box-shadow(5px 5px 5px rgba(0,0,0,.5));
     background: url(../images/logo.jpg) $dark_1;
+  }
+
+  #sidebar {
+    @include column($sidebar-columns, true);
+    z-index: 1;
+    position: fixed;
+    top: $content_margin;
+    margin-left: +span($content-columns)+$logo_border+$blueprint-grid-margin;
+    width: $logo_width;
+    height: 740px;
+    @include background(image-url('../images/stickmen_vertical.png'), linear-gradient(left top, $dark_1, white));
+    background-position:center;
+    background-repeat:no-repeat;
   }
 }
 
@@ -206,13 +220,4 @@ blockquote {
   img {
     max-width: 100%;
   }
-}
-
-#sidebar {
-  @include column($sidebar-columns, true);
-  bottom: 0;
-  margin-left: $logo_border;
-  width: $logo_width;
-  height: 100%;
-  background-color: $dark_1;
 }

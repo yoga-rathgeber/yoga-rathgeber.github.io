@@ -7,6 +7,10 @@ Wenn Sie eine speziell auf Ihre Bedürfnisse *abgestimmte Yogapraxis* wünschen,
 
 Der Einzelunterricht, bei dem ein Lehrer einen einzelnen Schüler unterrichtet, folgt einer sehr langen Yogatradition.
 
+<p style="text-align:center">
+<img alt="Einzelunterricht" src="images/single.jpg" />
+</p>
+
 *Ihr persönliches Anliegen*, das Sie zum Yoga führt, steht  ganz im Mittelpunkt dieser individuellen Arbeit, für die sich folgende Vorgehensweise bewährt hat:
 
 **Die erste Stunde:**

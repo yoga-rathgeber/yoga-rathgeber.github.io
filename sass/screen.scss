@@ -165,6 +165,7 @@ blockquote {
   #sidebar {
     @include column($sidebar-columns, true);
     z-index: 1;
+    display: block;
     position: fixed;
     top: $content_margin;
     margin-left: +span($content-columns)+$logo_border+$blueprint-grid-margin;

@@ -18,7 +18,7 @@ end
 
 desc "Build site"
 task :build => [:haml, :clean] do |task, args|
-  system "jekyll"
+  system "jekyll --base-url http://yoga-rathgeber.de/"
 end
 
 desc "Deploy site"

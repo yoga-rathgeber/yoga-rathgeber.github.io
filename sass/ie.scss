@@ -14,3 +14,15 @@ body.bp {
   // .my-container
   //   text-align: left
 }
+
+#header {
+  #title {
+    nav {
+      li {
+        a {
+          margin-left: -.5em;
+        }
+      }
+    }
+  }
+}

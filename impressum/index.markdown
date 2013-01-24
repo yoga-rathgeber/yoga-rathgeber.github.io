@@ -13,7 +13,7 @@ Frankenring 70
 ## Kontakt
 
 **Telefon:** 09195 8406  
-**E-Mail:** <gabriele@yoga-rathgeber.de>
+**E-Mail:** <gabriele.rathgeber@gmail.com>
 
 ## Haftungsausschluss
 

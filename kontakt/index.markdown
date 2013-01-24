@@ -7,5 +7,5 @@ Gabriele Rathgeber
 Frankenring 70  
 91325 Adelsdorf
 
-Tel. 09195/8406  
-Email: <gabriele.rathgeber@gmail.com>
+Tel. {{ site.phone }}  
+Email: <{{ site.email }}>

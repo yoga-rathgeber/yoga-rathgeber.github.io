@@ -12,8 +12,8 @@ Frankenring 70
 
 ## Kontakt
 
-**Telefon:** 09195 8406  
-**E-Mail:** <gabriele.rathgeber@gmail.com>
+**Telefon:** {{ site.phone }}  
+**E-Mail:** <{{ site.email }}>
 
 ## Haftungsausschluss
 

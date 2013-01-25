@@ -17,7 +17,7 @@ task :preview => [:haml, :clean] do
 end
 
 desc "Build site"
-task :build => [:haml, :clean] do |task, args|
+task :build => [:haml, :clean, "compass:compile"] do |task, args|
   system "jekyll --base-url http://yoga-rathgeber.de/"
 end
 

@@ -42,6 +42,11 @@ p, ul, ol, td, th {
   text-align: justify;
 }
 
+td {
+  vertical-align: top;
+  padding: 0 .5em;
+}
+
 th {
   vertical-align: top;
   font-weight: 600;

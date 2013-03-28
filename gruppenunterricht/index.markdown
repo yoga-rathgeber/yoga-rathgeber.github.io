@@ -15,16 +15,16 @@ Auch spezielle Atemübungen oder auch kleine Meditationen können je nach Intere
 
 Die Kurse werden von den meisten Krankenkassen bezuschusst.
 
-## Kurse im neuen Jahr
+## Frühjahr/Sommer-Kurs
 
 Ein Kurs umfasst 10 Unterrichtseinheiten und kostet 70 EUR.
 
 ### Kurstage und Kurszeiten
 
 <table>
-<tr><th>Mittwoch</th><td>10:30-12:00 Uhr (ab 16.01.2013)</td></tr>
-<tr><th>Donnerstag</th><td>18:15-19:45 Uhr und 20:00-21:30 Uhr (ab 17.01.2013)</td></tr>
-<tr><th>Freitag</th><td>8:30-10:00 Uhr und 10:15-11:45 Uhr (ab 18.01.2013)</td></tr>
+<tr><th>Mittwoch</th><td>10:30-12:00 Uhr (ab 10.04.2013)</td></tr>
+<tr><th>Donnerstag</th><td>18:15-19:45 Uhr und 20:00-21:30 Uhr (ab 11.04.2013)</td></tr>
+<tr><th>Freitag</th><td>8:30-10:00 Uhr und 10:15-11:45 Uhr (ab 12.04.2013)</td></tr>
 </table>
 
 ### Kursort

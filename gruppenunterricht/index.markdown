@@ -15,19 +15,30 @@ Auch spezielle Atemübungen oder auch kleine Meditationen können je nach Intere
 
 Die Kurse werden von den meisten Krankenkassen bezuschusst.
 
-## Frühjahr/Sommer-Kurs
+## Yoga-Intensivwoche(n) Sommer 2013
 
-Ein Kurs umfasst 10 Unterrichtseinheiten und kostet 70 EUR.
+Jeden Tag eine Stunde üben
+
+<table>
+<tr><th>19. – 23. August 2013</th><td>Kurs 1: 9 – 10 Uhr</td><td>Kurs 2: 18 – 19 Uhr</td></tr>
+<tr><th>26. - 30. August 2013</th><td>Kurs 3: 9 – 10 Uhr</td><td>Kurs 4: 18 – 19 Uhr</td></tr>
+</table>
+
+Preis: 30 € pro Kurs
+
+## Herbstkurse 2013
+
+Ein Kurs umfasst 10 Unterrichtseinheiten und kostet 75 €.
 
 ### Kurstage und Kurszeiten
 
 <table>
-<tr><th>Mittwoch</th><td>10:30-12:00 Uhr</td><td>ab 10.04.2013</td></tr>
-<tr><th>Donnerstag</th><td>18:15-19:45 Uhr<br />20:00-21:30 Uhr</td><td>ab 11.04.2013</td></tr>
-<tr><th>Freitag</th><td>8:30-10:00 Uhr<br />10:15-11:45 Uhr</td><td>ab 12.04.2013</td></tr>
+<tr><th>Mittwoch</th><td>10:30-12:00 Uhr</td><td>ab 18.09.2013</td></tr>
+<tr><th>Donnerstag</th><td>18:15-19:45 Uhr<br />20:00-21:30 Uhr</td><td>ab 19.09.2013</td></tr>
+<tr><th>Freitag</th><td>8:30-10:00 Uhr<br />10:15-11:45 Uhr</td><td>ab 20.09.2013</td></tr>
 </table>
 
-### Kursort
+## Kursort
 
 Katholisches Pfarrzentrum  
 Hauptstraße 12  

@@ -112,7 +112,8 @@ article {
 
 aside {
   @include background(image-url('../images/stickmen_vertical.png'), linear-gradient(left top, $dark_1, white));
-  background-position:center;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#86b32d', endColorstr='#ffffff'), progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/stickmen_vertical.png');
+  background-position:center center;
   background-repeat:no-repeat;
   height: 740px;
 }

@@ -1,0 +1,195 @@
+// Colors
+// Colorscheme: http://colorschemedesigner.com/#2m31Ew0w0w0w0
+$base: #9fee00;
+$dark_1: #86b32d;
+$dark_2: #679b00;
+$light_1: #b9f73e;
+$light_2: #c9f76f;
+$text_dark: #2a2a2a;
+$text_light: #ffcc00;
+$accent_light: #ffeb9b;
+$link: #6C006C;
+$link_hover: #7C1F7C;
+
+$logo_border: 8px;
+$logo_width: 240px;
+$logo_height: 180px;
+
+@import "compass/css3";
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,600italic,700);
+
+body, table {
+  font-size: 1em;
+  color:$text_dark;
+  font-family: 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 400;
+  margin:0 0 .25em;
+}
+
+p, ul, ol, td, th {
+  font-size: 1.25em;
+  font-weight: 300;
+  margin:0 0 .5em;
+  text-align: justify;
+}
+
+h1, h2, h3 {
+  color:$dark_2;
+  line-height: 1.5em;
+}
+
+h1 {
+  font-size:2.5em;
+  @include text-shadow(1px 2px 1px rgba(0,0,0,.5));
+}
+
+h2 {
+  font-size: 2em;
+  @include text-shadow(1px 1px 0px rgba(0,0,0,.5));
+}
+
+h3 {
+  font-size: 1.5em;
+  font-weight: 600;
+  @include text-shadow(1px 1px 0px rgba(0,0,0,.5));
+}
+
+a {
+  color:$link;
+  font-weight:400;
+  text-decoration:none;
+
+  &:hover {
+    color: $link_hover;
+  }
+
+  &:visited {
+    color: $link;
+  }
+}
+
+em {
+  font-weight: 300;
+  font-style: italic;
+}
+
+strong {
+  font-weight: 600;
+}
+
+td {
+  vertical-align: top;
+  padding: 0 .5em;
+}
+
+th {
+  vertical-align: top;
+  font-weight: 600;
+  padding-right: .5em;
+}
+
+article {
+  @media only screen and (min-width: 768px) and (max-width: 895px) {
+    padding-top: 50px;
+  }
+  iframe, img {
+    max-width: 100%;
+    margin-left:auto;
+    margin-right:auto;
+    @include box-shadow(5px 5px 5px rgba(0,0,0,.5));
+  }
+
+  #center p {
+    text-align: center;
+    font-size: 2em;
+    color: $link;
+  }
+}
+
+aside {
+  @include background(image-url('../images/stickmen_vertical.png'), linear-gradient(left top, $dark_1, white));
+  background-position:center;
+  background-repeat:no-repeat;
+  height: 740px;
+}
+
+footer {
+  p {
+    font-size: .8em;
+    text-align: center;
+  }
+}
+
+.nopadding {
+  padding: 0;
+}
+
+#header {
+  background: url(../images/nav-bg.png) $dark_1;
+  border-top: 4px solid $dark_2;
+  border-bottom: 4px solid $dark_2;
+  top: $logo_border;
+  @include box-shadow(0px 2px 5px rgba(0,0,0,.5));
+  @media only screen and (min-width: 768px) {
+    height: $logo_height - 2 * $logo_border;
+  }
+
+  #title {
+    h1, h2 {
+      color: $light_2;
+      text-align: center;
+      line-height: 1.5em;
+      margin: 0 0 0;
+    }
+  }
+
+  ul.button-group {
+    float: right;
+    vertical-align: bottom;
+
+    li {
+      font-size: 1em;
+      float: left;
+      @include text-shadow(1px 1px 0px rgba(0,0,0,.5));
+
+      a.button {
+        padding-left: .5em;
+        padding-right: .5em;
+        margin: 0;
+        color:$light_2;
+        text-decoration:none;
+        font-weight: 600;
+        background-color: $dark_1;
+        border-color: $dark_2;
+
+        &:hover {
+          color: $light_1;
+        }
+      }
+      a.button.home {
+        @media only screen and (min-width: 768px) and (max-width: 862px), (min-width: 567px) and (max-width: 646px) {
+          display: none;
+        }
+      }
+    }
+  }
+}
+
+#logo {
+  @media only screen and (max-width: 767px) {
+    display: none;
+  }
+  z-index: 3;
+  position: relative;
+  width: 100%;
+  height: $logo_height;
+  border: $logo_border solid #cccccc;
+  @include box-shadow(5px 5px 5px rgba(0,0,0,.5));
+  background: url(../images/logo.jpg) $dark_1;
+  background-position:center;
+  background-repeat:no-repeat;
+}

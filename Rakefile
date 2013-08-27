@@ -1,23 +1,10 @@
-desc "Parse haml layouts"
-task :haml do
-  print "Parsing Haml layouts..."
-  system(%{
-    cd _layouts/ &&
-    for f in haml/*.haml; do
-      o=${f##*/};
-      [ -e $f ] && haml $f ${o%.haml}.html;
-    done
-  })
-  puts "done."
-end
-
 desc "Launch preview environment"
-task :preview => [:haml, :clean] do
+task :preview => [:clean] do
   system "jekyll serve --watch --baseurl /"
 end
 
 desc "Build site"
-task :build => [:haml, :clean, "compass:compile"] do |task, args|
+task :build => [:clean, "compass:compile"] do |task, args|
   system "jekyll build"
 end
 

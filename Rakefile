@@ -13,12 +13,12 @@ end
 
 desc "Launch preview environment"
 task :preview => [:haml, :clean] do
-  system "jekyll --auto --server"
+  system "jekyll serve --watch --baseurl /"
 end
 
 desc "Build site"
 task :build => [:haml, :clean, "compass:compile"] do |task, args|
-  system "jekyll --base-url http://yoga-rathgeber.de/"
+  system "jekyll build"
 end
 
 desc "Deploy site"

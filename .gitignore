@@ -1,5 +1,5 @@
-_layouts/*.html
 _site/
 .sass-cache/
 stylesheets/
 server/
+sass/build

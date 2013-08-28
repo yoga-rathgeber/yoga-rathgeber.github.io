@@ -8,11 +8,6 @@ task :build => [:clean, "compass:compile"] do |task, args|
   system "jekyll build"
 end
 
-desc "Deploy site"
-task :deploy => [:build] do |task, args|
-  system "rsync -rv --chmod=Dgo+rx,Fgo+r _site/ ~/Volumes/gabira/httpdocs/"
-end
-
 task :clean do
   system "rm -rf _site"
 end

@@ -1,5 +1,4 @@
 _site/
 .sass-cache/
-stylesheets/
 server/
-sass/build
+css/

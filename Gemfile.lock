@@ -24,7 +24,6 @@ GEM
       kramdown (~> 0.13)
       liquid (~> 2.3)
       maruku (~> 0.5)
-    jekyll-minibundle (0.2.0)
     kramdown (0.13.7)
     liquid (2.3.0)
     maruku (0.6.0)
@@ -46,7 +45,6 @@ DEPENDENCIES
   foreman
   haml
   jekyll
-  jekyll-minibundle
   rake
   rb-fsevent
   rdiscount

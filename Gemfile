@@ -1,7 +1,6 @@
 source 'http://rubygems.org'
 
 gem 'jekyll'
-gem 'jekyll-minibundle'
 gem 'haml'
 gem 'sass', ' >= 3.2.0.alpha'
 gem 'rake'

@@ -93,9 +93,8 @@ th {
 }
 
 article {
-  @media only screen and (min-width: 768px) and (max-width: 895px) {
-    padding-top: 50px;
-  }
+  padding-top: 10px;
+
   iframe, img {
     max-width: 100%;
     margin-left:auto;
@@ -116,6 +115,9 @@ aside {
   background-position:center center;
   background-repeat:no-repeat;
   height: 740px;
+  @media only screen and (min-width: 768px) and (max-width: 895px) {
+    top: -44px;
+  }
 }
 
 footer {
@@ -133,9 +135,15 @@ footer {
   background: url(../images/nav-bg.png) $dark_1;
   border-top: 4px solid $dark_2;
   border-bottom: 4px solid $dark_2;
+  @media only screen and (min-width: 768px) and (max-width: 895px) {
+    border-bottom: 64px solid $dark_2;
+  }
   top: $logo_border;
   @include box-shadow(0px 2px 5px rgba(0,0,0,.5));
-  @media only screen and (min-width: 768px) {
+  @media only screen and (min-width: 768px) and (max-width: 895px) {
+    height: $logo_height - 2 * $logo_border + 60px;
+  }
+  @media only screen and (min-width: 896px) {
     height: $logo_height - 2 * $logo_border;
   }
 
@@ -155,26 +163,25 @@ footer {
     li {
       font-size: 1em;
       float: left;
+      list-style-image:url('../images/bullet.png');
+      list-style-position:inside;
       @include text-shadow(1px 1px 0px rgba(0,0,0,.5));
 
-      a.button {
-        padding-left: .5em;
+      a {
         padding-right: .5em;
         margin: 0;
         color:$light_2;
         text-decoration:none;
         font-weight: 600;
-        background-color: $dark_1;
-        border-color: $dark_2;
 
         &:hover {
           color: $light_1;
         }
       }
-      a.button.home {
-        @media only screen and (min-width: 768px) and (max-width: 862px), (min-width: 567px) and (max-width: 646px) {
-          display: none;
-        }
+    }
+    li.home {
+      @media only screen and (min-width: 585px) and (max-width: 670px) {
+        display: none;
       }
     }
   }

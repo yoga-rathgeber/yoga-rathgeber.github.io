@@ -2,6 +2,7 @@ markdown: rdiscount
 pygments: true
 safe: true
 exclude:
+  - CNAME
   - Gemfile
   - Gemfile.lock
   - Procfile

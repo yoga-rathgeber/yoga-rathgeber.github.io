@@ -5,7 +5,7 @@ exclude:
   - Gemfile.lock
   - Procfile
   - Rakefile
-  - Readme
+  - README.md
   - config.rb
   - sass
 permalink: :title

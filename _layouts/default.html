@@ -42,7 +42,7 @@ sidebar_cats:
         <h2>{{ site.subtitle }}</h2>
       </div>
       <div class="nav-bar right">
-       <ul class="button-group">
+       <ul>
          <li class="home"><a href='{{ site.baseurl }}'>Home</a></li>
          {% for cat in (page.sidebar_cats) %}
          <li><a href='{{ cat }}'>{{ cat | replace:'_',' ' | capitalize }}</a></li>

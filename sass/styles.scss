@@ -34,7 +34,6 @@ p, ul, ol, td, th {
   font-size: 1.25em;
   font-weight: 300;
   margin:0 0 .5em;
-  text-align: justify;
 }
 
 h1, h2, h3 {
@@ -131,6 +130,11 @@ footer {
   padding: 0;
 }
 
+ul{
+  list-style-image:url('../images/bullet-green.png');
+  list-style-position:inside;
+}
+
 #header {
   background: url(../images/nav-bg.png) $dark_1;
   border-top: 4px solid $dark_2;
@@ -156,8 +160,7 @@ footer {
     }
   }
 
-  ul.button-group {
-    float: right;
+  ul {
     vertical-align: bottom;
 
     li {

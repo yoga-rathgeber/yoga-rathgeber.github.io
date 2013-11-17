@@ -8,10 +8,15 @@ sidebar_cats:
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if IE 8]>    <html class="no-js ie lt-ie9" lang="en"> <![endif]-->
 <!--[if gt IE 8]> <html class="no-js ie" lang="en"> <![endif]-->
-<!--[if !IE]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<!--[if !IE]><!--> <html class="no-js" lang="en" itemscope itemtype="http://schema.org/LocalBusiness"> <!--<![endif]-->
 <head>
   <base href='{{ site.baseurl }}'>
   <meta charset="utf-8" />
+
+  <meta itemprop="name" content="Yoga in Adelsdorf im Aischgrund - Gabriele Rathgeber - Yogalehrerin BDY/EYU" />
+  <meta itemprop="description" content="Gabriele Rathgeber, Yogalehrerin BDY/EYU. Yogaunterricht (Gruppenunterricht und Einzelunterricht) in der Tradition von Krishnamacharya und T.K.V. Desikachar in Adelsdorf im Aischgrund." />
+  <meta itemprop="image" content="images/logo.jpg" />
+  <meta itemprop="url" content="http://yoga-rathgeber.de" />
 
   <!-- Set the viewport width to device width for mobile -->
   <meta name="viewport" content="width=device-width" />
@@ -82,14 +87,17 @@ sidebar_cats:
 
   <!-- Footer -->
   <footer class="row">
-    <div class="large-12 columns">
+    <div class="large-12 columns" itemscope itemtype="http://schema.org/PostalAddress">
       <hr />
       <div class="row">
         <div class="large-3 columns">
-          <p>Tel.: {{ site.phone }}</p>
+          <p>Tel.: <span itemprop="telephone">{{ site.phone }}</span><br />
+          Email: <a href="&#x6d;&#97;&#105;&#108;&#116;&#111;&#x3a;&#x67;&#97;&#x62;&#x72;&#x69;&#101;&#108;&#101;&#46;&#114;&#97;&#x74;&#x68;&#103;&#x65;&#98;&#101;&#x72;&#64;&#x67;&#109;&#x78;&#x2e;&#100;&#101;" itemprop="email">&#x67;&#97;&#98;&#x72;&#105;&#101;&#x6c;&#101;&#x2e;&#114;&#97;&#x74;&#x68;&#103;&#101;&#x62;&#x65;&#x72;&#64;&#x67;&#x6d;&#120;&#x2e;&#100;&#101;</a></span></p>
         </div>
         <div class="large-3 columns">
-          <p>Email: <a href="&#x6d;&#97;&#105;&#108;&#116;&#111;&#x3a;&#x67;&#97;&#x62;&#x72;&#x69;&#101;&#108;&#101;&#46;&#114;&#97;&#x74;&#x68;&#103;&#x65;&#98;&#101;&#x72;&#64;&#x67;&#109;&#x78;&#x2e;&#100;&#101;">&#x67;&#97;&#98;&#x72;&#105;&#101;&#x6c;&#101;&#x2e;&#114;&#97;&#x74;&#x68;&#103;&#101;&#x62;&#x65;&#x72;&#64;&#x67;&#x6d;&#120;&#x2e;&#100;&#101;</a></p>
+          <p><span itemprop="streetAddress">Frankenring 70</span><br />
+          <span itemprop="postalCode">91325</span> <span itemprop="addressLocality">Adelsdorf</span>,
+          <span itemprop="addressCountry">Germany</span></p>
         </div>
         <div class="large-3 columns">
           <p><a href="impressum">Impressum</a></p>

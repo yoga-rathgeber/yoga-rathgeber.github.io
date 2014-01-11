@@ -15,18 +15,6 @@ Auch spezielle Atemübungen oder auch kleine Meditationen können je nach Intere
 
 Die Kurse werden von den meisten Krankenkassen bezuschusst.
 
-## Herbstkurse 2013
-
-Ein Kurs umfasst 10 Unterrichtseinheiten und kostet 75 €.
-
-### Kurstage und Kurszeiten
-
-<table>
-<tr><th>Mittwoch</th><td>8:45-10:15 Uhr<br />10:30-12:00 Uhr</td><td>ab 18.09.2013</td></tr>
-<tr><th>Donnerstag</th><td>18:15-19:45 Uhr<br />20:00-21:30 Uhr</td><td>ab 19.09.2013</td></tr>
-<tr><th>Freitag</th><td>8:30-10:00 Uhr<br />10:15-11:45 Uhr</td><td>ab 20.09.2013</td></tr>
-</table>
-
 ## Winterkurse 2014
 
 Ein Kurs umfasst 10 Unterrichtseinheiten und kostet 75 €.

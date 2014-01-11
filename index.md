@@ -10,14 +10,6 @@ und<br />
 <strong>T.K.V. Desikachar</strong><br />
 </p>
 
-## Herbstkurse 2013
-
-<table>
-<tr><th>Mittwoch</th><td>8:45-10:15 Uhr<br />10:30-12:00 Uhr</td><td>ab 18.09.2013</td></tr>
-<tr><th>Donnerstag</th><td>18:15-19:45 Uhr<br />20:00-21:30 Uhr</td><td>ab 19.09.2013</td></tr>
-<tr><th>Freitag</th><td>8:30-10:00 Uhr<br />10:15-11:45 Uhr</td><td>ab 20.09.2013</td></tr>
-</table>
-
 ## Winterkurse 2014
 
 <table>

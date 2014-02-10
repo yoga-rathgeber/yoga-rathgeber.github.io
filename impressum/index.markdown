@@ -3,6 +3,8 @@ layout: default
 title: Impressum
 ---
 
+## Verantwortlich für den Inhalt
+
 Angaben gemäß § 5 TMG:
 
 Gabriele Rathgeber  
@@ -14,6 +16,19 @@ Frankenring 70
 
 **Telefon:** {{ site.phone }}  
 **E-Mail:** <{{ site.email }}>
+
+## Technische Umsetzung
+
+Florian Rathgeber  
+Frankenring 70  
+91325 Adelsdorf  
+E-Mail: <florian.rathgeber@gmail.com>
+
+## Bildnachweise
+
+* Logo: Hermann Rathgeber
+* Favicon und Sidebar-Grafik: Gabriele Rathgeber
+* Fotos: Florian Rathgeber
 
 ## Haftungsausschluss
 

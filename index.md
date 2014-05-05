@@ -10,15 +10,17 @@ und<br />
 <strong>T.K.V. Desikachar</strong><br />
 </p>
 
-## Winterkurse 2014
-
-<table>
-<tr><th>Mittwoch</th><td>8:45-10:15 Uhr<br />10:30-12:00 Uhr</td><td>ab 15.01.2014</td></tr>
-<tr><th>Donnerstag</th><td>18:15-19:45 Uhr<br />20:00-21:30 Uhr</td><td>ab 16.01.2014</td></tr>
-<tr><th>Freitag</th><td>8:30-10:00 Uhr<br />10:15-11:45 Uhr</td><td>ab 17.01.2014</td></tr>
-</table>
+## Frühjahr-Sommer-Kurse 2014
 
 Ein Kurs umfasst 10 Unterrichtseinheiten und kostet 75 €.
+
+### Kurstage und Kurszeiten
+
+<table>
+<tr><th>Mittwoch</th><td>8:45-10:15 Uhr<br />10:30-12:00 Uhr</td><td>ab 30.04.2014</td></tr>
+<tr><th>Donnerstag</th><td>18:15-19:45 Uhr<br />20:00-21:30 Uhr</td><td>ab 03.04.2014</td></tr>
+<tr><th>Freitag</th><td>8:30-10:00 Uhr<br />10:15-11:45 Uhr</td><td>ab 04.04.2014</td></tr>
+</table>
 
 ## Kontakt
 

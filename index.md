@@ -42,6 +42,24 @@ Die meisten Krankenkassen bezuschussen den Kurs.
 <tr><th>Dienstag</th><td>17:30-19:00 Uhr</td><td>ab 06.05.2014</td></tr>
 </table>
 
+## Yoga nach der Geburt
+
+Sanfte und kraftvolle Übungen für den Körper und den Beckenboden, Atemübungen
+und Wahrnehmungsübungen unterstützen Sie als junge  Mutter in Ihrer neuen
+Lebenssituation.
+
+Zu diesem Kurs dürfen Sie Ihr Baby mitbringen.
+
+**Kursbeginn:** 6. Mai 2014, 8 Termine, 60 €
+
+Die meisten Krankenkassen bezuschussen den Kurs.
+
+### Kurstage und Kurszeiten
+
+<table>
+<tr><th>Dienstag</th><td>10:00-11:30 Uhr</td><td>ab 06.05.2014</td></tr>
+</table>
+
 ## Kontakt
 
 Gabriele Rathgeber  

@@ -22,6 +22,26 @@ Ein Kurs umfasst 10 Unterrichtseinheiten und kostet 75 €.
 <tr><th>Freitag</th><td>8:30-10:00 Uhr<br />10:15-11:45 Uhr</td><td>ab 04.04.2014</td></tr>
 </table>
 
+## Yoga für Schwangere
+
+Sanfte Körperübungen, Atemübungen und Wahrnehmungsübungen bringen Sie als
+werdende Mutter in Kontakt mit sich und Ihrem Baby. Das Üben hilft, Spannungen
+und Stress zu reduzieren und stärkt das Vertrauen in die körpereigenen
+Ressourcen.
+
+Der Kurs ist geeignet für werdende Mütter ab der 16. Schwangerschaftswoche.
+und ergänzt den Geburtsvorbereitungskurs bei der Hebamme.
+
+**Kursbeginn:** 6. Mai 2014, 8 Termine, 60 €
+
+Die meisten Krankenkassen bezuschussen den Kurs.
+
+### Kurstage und Kurszeiten
+
+<table>
+<tr><th>Dienstag</th><td>17:30-19:00 Uhr</td><td>ab 06.05.2014</td></tr>
+</table>
+
 ## Kontakt
 
 Gabriele Rathgeber  

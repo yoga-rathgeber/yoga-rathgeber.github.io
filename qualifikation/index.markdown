@@ -5,6 +5,9 @@ title: Meine Qualifikation
 
 * Yogalehrerin [BDY](http://yoga.de)/[EYU](http://yogaeurop.com)
 * Zertifikat für individuelle Yogabegleitung
+* Zertifikat von der Zentrale Prüfstelle Prävention
+
+Der Gruppenunterricht wird von den meisten Krankenkassen bezuschusst.
 
 ## Meine Ausbildung
 
@@ -25,5 +28,6 @@ Seit 1997 besuche ich kontinuierlich Weiterbildungen und Supervisionen bei meine
 
 Herausgegeben von meinen Lehrern **Dr. Imogen Dalmann** und **Martin Soder**:
 
-* [Viveka](http://viveka.de/)
-* [Warum Yoga?](http://www.warumyoga.de/)
+* [Viveka](http://viveka.de) - Hefte für Yoga
+* [Warum Yoga?](http://www.warumyoga.de) - Über Praxis, Konzepte und Hintergründe
+* [Heilkust Yoga](http://www.heilkunstyoga.de) - Yogatherapie heute: Konzepte, Praxis, Perspektiven

@@ -30,7 +30,7 @@ h1, h2, h3, h4, h5, h6 {
   margin:0 0 .25em;
 }
 
-p, ul, ol, td, th {
+p, ul, ol, table tr td, table tr th {
   font-size: 1.25em;
   font-weight: 300;
   margin:0 0 .5em;
@@ -85,7 +85,7 @@ td {
   padding: 0 .5em;
 }
 
-th {
+table tr th {
   vertical-align: top;
   font-weight: 600;
   padding-right: .5em;

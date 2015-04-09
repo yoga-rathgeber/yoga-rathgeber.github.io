@@ -3,6 +3,9 @@ layout: default
 title: Yoga - Gruppenunterricht
 ---
 
+{% capture courses %}{% include courses.md %}{% endcapture %}
+{{ courses | markdownify }}
+
 Dieser Unterricht findet in **kleinen Gruppen** mit maximal 10 Personen statt.
 
 ![Gruppenunterricht](images/group1.jpg)
@@ -14,6 +17,9 @@ Langsame Bewegungsabläufe, die in Verbindung mit dem Atem geübt werden, bilden
 Auch spezielle Atemübungen oder auch kleine Meditationen können je nach Interesse einer Gruppe in die Yogastunde aufgenommen werden.
 
 Die Kurse werden von den meisten Krankenkassen bezuschusst.
+
+{% capture special %}{% include special.md %}{% endcapture %}
+{{ special | markdownify }}
 
 ## Yoga für Schwangere
 
@@ -37,16 +43,7 @@ Zu diesem Kurs dürfen Sie Ihr Baby mitbringen.
 
 Die meisten Krankenkassen bezuschussen den Kurs.
 
-## Kurszeiten
-
-{% capture courses %}{% include courses.md %}{% endcapture %}
-{{ courses | markdownify }}
-
-## Kursort
-
-Katholisches Pfarrzentrum  
-Hauptstraße 12  
-91325 Adelsdorf
+## Anfahrt
 
 <iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
 src="https://maps.google.com/maps?f=q&source=s_q&hl=de&geocode=&q=katholisches+pfarrzentrum,+adelsdorf&aq=&sll=37.0625,-95.677068&sspn=61.969195,50.185547&ie=UTF8&hq=katholisches+pfarrzentrum,&hnear=Adelsdorf,+Mittelfranken,+Bayern,+Deutschland&ll=49.713847,10.895731&spn=0.050337,0.049009&t=m&z=14&iwloc=A&cid=12928057610194498948&output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&source=embed&hl=de&geocode=&q=katholisches+pfarrzentrum,+adelsdorf&aq=&sll=37.0625,-95.677068&sspn=61.969195,50.185547&ie=UTF8&hq=katholisches+pfarrzentrum,&hnear=Adelsdorf,+Mittelfranken,+Bayern,+Deutschland&ll=49.713847,10.895731&spn=0.050337,0.049009&t=m&z=14&iwloc=A&cid=12928057610194498948">Größere Kartenansicht öffnen</a></small>

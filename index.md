@@ -12,7 +12,7 @@ und<br />
 
 # [Einzelunterricht](einzelunterricht)
 
-Hier wir eine ganz auf Sie abgestimmte Yoga-Praxis erarbeitet. Der Einführungskurs umfasst 6 Stunden und kostet 200€. Termine nach Vereinbarung.
+Hier wird eine ganz auf Sie abgestimmte Yoga-Praxis erarbeitet. Der Einführungskurs umfasst 6 Stunden und kostet 200€. Termine nach Vereinbarung.
 
 ## Kursort
 

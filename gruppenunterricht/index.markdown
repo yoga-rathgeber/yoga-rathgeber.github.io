@@ -45,5 +45,4 @@ Die meisten Krankenkassen bezuschussen den Kurs.
 
 ## Anfahrt
 
-<iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
-src="https://maps.google.com/maps?f=q&source=s_q&hl=de&geocode=&q=katholisches+pfarrzentrum,+adelsdorf&aq=&sll=37.0625,-95.677068&sspn=61.969195,50.185547&ie=UTF8&hq=katholisches+pfarrzentrum,&hnear=Adelsdorf,+Mittelfranken,+Bayern,+Deutschland&ll=49.713847,10.895731&spn=0.050337,0.049009&t=m&z=14&iwloc=A&cid=12928057610194498948&output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&source=embed&hl=de&geocode=&q=katholisches+pfarrzentrum,+adelsdorf&aq=&sll=37.0625,-95.677068&sspn=61.969195,50.185547&ie=UTF8&hq=katholisches+pfarrzentrum,&hnear=Adelsdorf,+Mittelfranken,+Bayern,+Deutschland&ll=49.713847,10.895731&spn=0.050337,0.049009&t=m&z=14&iwloc=A&cid=12928057610194498948">Größere Kartenansicht öffnen</a></small>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2579.838504879719!2d10.896094999999999!3d49.713842!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a21c7f097e7db1%3A0x1e45309a64770dda!2sPfarrzentrum!5e0!3m2!1sde!2sde!4v1434057565439" width="640" height="480" frameborder="0" style="border:0"></iframe>

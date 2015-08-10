@@ -1,7 +1,7 @@
 ## Kursort
 
 Katholisches Pfarrzentrum  
-Hauptstraße 12  
+Hauptstraße 21  
 91325 Adelsdorf
 
 ## Sommerkurse

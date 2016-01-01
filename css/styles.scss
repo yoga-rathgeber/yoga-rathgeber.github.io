@@ -1,3 +1,12 @@
+---
+---
+
+@mixin box-shadow($x: 2px, $y: 2px, $blur: 5px, $color: rgba(0,0,0,.4), $inset: "") {
+    -webkit-box-shadow: $inset $x $y $blur $color;
+    -moz-box-shadow:    $inset $x $y $blur $color;
+    box-shadow:         $inset $x $y $blur $color;
+}
+
 // Colors
 // Colorscheme: http://colorschemedesigner.com/#2m31Ew0w0w0w0
 $base: #9fee00;
@@ -15,7 +24,6 @@ $logo_border: 8px;
 $logo_width: 240px;
 $logo_height: 180px;
 
-@import "compass/css3";
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,600italic,700);
 
 body, table {
@@ -27,13 +35,13 @@ body, table {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
-  margin:0 0 .25em;
+  margin: 0.5 0 .25em 0;
 }
 
 p, ul, ol, table tr td, table tr th {
   font-size: 1.25em;
   font-weight: 300;
-  margin:0 0 .5em;
+  margin: 0 0 .5em;
 }
 
 h1, h2, h3 {
@@ -43,18 +51,18 @@ h1, h2, h3 {
 
 h1 {
   font-size:2.5em;
-  @include text-shadow(1px 2px 1px rgba(0,0,0,.5));
+  text-shadow: 1px 2px 1px rgba(0,0,0,.5);
 }
 
 h2 {
   font-size: 2em;
-  @include text-shadow(1px 1px 0px rgba(0,0,0,.5));
+  text-shadow: 1px 1px 0px rgba(0,0,0,.5);
 }
 
 h3 {
   font-size: 1.5em;
   font-weight: 600;
-  @include text-shadow(1px 1px 0px rgba(0,0,0,.5));
+  text-shadow: 1px 1px 0px rgba(0,0,0,.5);
 }
 
 a {
@@ -109,7 +117,11 @@ article {
 }
 
 aside {
-  @include background(image-url('../images/stickmen_vertical.png'), linear-gradient(left top, $dark_1, white));
+  background: url('/images/../images/stickmen_vertical.png?1345639177'), -webkit-gradient(linear, 0% 0%, 100% 100%, color-stop(0%, #86b32d), color-stop(100%, #ffffff));
+  background: url('/images/../images/stickmen_vertical.png?1345639177'), -webkit-linear-gradient(left top, #86b32d, #ffffff);
+  background: url('/images/../images/stickmen_vertical.png?1345639177'), -moz-linear-gradient(left top, #86b32d, #ffffff);
+  background: url('/images/../images/stickmen_vertical.png?1345639177'), -o-linear-gradient(left top, #86b32d, #ffffff);
+  background: url('/images/../images/stickmen_vertical.png?1345639177'), linear-gradient(left top, #86b32d, #ffffff);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#86b32d', endColorstr='#ffffff'), progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/stickmen_vertical.png');
   background-position:center center;
   background-repeat:no-repeat;
@@ -170,7 +182,7 @@ ul{
       background: url('../images/bullet.png') no-repeat 0px 13px transparent;
       padding-left: 13px;
       list-style: none;
-      @include text-shadow(1px 1px 0px rgba(0,0,0,.5));
+      text-shadow: 1px 1px 0px rgba(0,0,0,.5);
 
       a {
         padding-right: .5em;

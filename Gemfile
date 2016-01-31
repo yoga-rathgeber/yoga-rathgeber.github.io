@@ -1,11 +1,2 @@
 source 'http://rubygems.org'
-
-gem 'jekyll', '>= 1.1'
-gem 'haml'
-gem 'sass', ' >= 3.2.0.alpha'
-gem 'rake'
-gem 'rdiscount'
-gem 'RedCloth'
-gem 'compass'
-gem 'foreman'
-gem 'rb-fsevent'
+gem 'github-pages'

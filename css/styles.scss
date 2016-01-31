@@ -44,6 +44,12 @@ p, ul, ol, table tr td, table tr th {
   margin: 0 0 .5em;
 }
 
+table tr td, table tr th {
+  @media only screen and (max-width: 767px) {
+    font-size: 1em;
+  }
+}
+
 h1, h2, h3 {
   color:$dark_2;
   line-height: 1.5em;

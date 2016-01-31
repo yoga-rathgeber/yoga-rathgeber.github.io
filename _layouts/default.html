@@ -1,5 +1,5 @@
 ---
-sidebar_cats:
+sidebar:
 - gruppenunterricht
 - einzelunterricht
 - qualifikation
@@ -61,7 +61,7 @@ sidebar_cats:
       <div class="nav-bar right">
        <ul>
          <li class="home"><a href='{{ site.baseurl }}'>Home</a></li>
-         {% for cat in (page.sidebar_cats) %}
+         {% for cat in page.sidebar %}
          <li><a href='{{ cat }}'>{{ cat | replace:'_',' ' | capitalize }}</a></li>
          {% endfor %}
         </ul>

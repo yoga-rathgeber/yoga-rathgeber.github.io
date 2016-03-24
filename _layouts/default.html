@@ -26,6 +26,13 @@ sidebar:
   <meta content='text/html; charset=utf-8' http-equiv='content-type' />
   <meta content='{{ site.author }}' name='author' />
 
+  <!-- Open Graph markup https://developers.facebook.com/docs/sharing/webmasters //-->
+  <meta property="og:url"                content="{{ site.url }}{{ page.url }}" />
+  <meta property="og:type"               content="business.business" />
+  <meta property="og:title"              content="{{ site.title }} :: {{ site.subtitle }} :: {{ page.title }}" />
+  <meta property="og:description"        content="Gabriele Rathgeber, Yogalehrerin BDY/EYU, Viniyoga in der Tradition von Krishnamacharya und T.K.V. Desikachar, Yoga Kurse, Gruppenunterricht, Einzelunterricht, Yoga für Schwangere, Yoga nach der Geburt in Adelsdorf im Aischgrund in Mittelfranken." />
+  <meta property="og:image"              content="{{ site.url }}/images/favicon.png" />
+
   <link href='{{ site.feedurl }}' rel='alternate' title='{{ site.title }}' type='application/atom+xml' />
   <!-- https://support.google.com/webmasters/answer/139066?hl=en //-->
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">

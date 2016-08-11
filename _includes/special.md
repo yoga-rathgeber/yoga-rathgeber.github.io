@@ -2,7 +2,7 @@
 
 Dienstags 18:15 - 19:45 Uhr.
 
-In diesen Kurs können Sie jederzeit einsteigen.
+In diesen Kurs können Sie nach vorheriger Anmeldung jederzeit einsteigen.
 
 **Kursort:** Pfarrzentrum Adelsdorf  
 **Kursdauer:** 8 Termine  
@@ -24,7 +24,7 @@ Die meisten Krankenkassen bezuschussen den Kurs.
 
 Dienstags 10:15 - 11:45 Uhr.
 
-In diesen Kurs können Sie jederzeit einsteigen.
+In diesen Kurs können Sie nach vorheriger Anmeldung jederzeit einsteigen.
 
 **Kursort:** Pfarrzentrum Adelsdorf  
 **Kursdauer:** 8 Termine  

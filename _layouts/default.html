@@ -69,7 +69,7 @@ sidebar:
       <div class="nav-bar right">
        <ul>
          <li class="home"><a href='{{ site.baseurl }}'>Home</a></li>
-         {% for cat in page.sidebar %}
+         {% for cat in layout.sidebar %}
          <li><a href='{{ cat }}'>{{ cat | replace:'_',' ' | capitalize }}</a></li>
          {% endfor %}
         </ul>

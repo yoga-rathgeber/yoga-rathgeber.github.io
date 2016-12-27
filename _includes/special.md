@@ -1,6 +1,6 @@
 ## Yoga für Schwangere
 
-Dienstags 18:15 - 19:45 Uhr.
+Dienstags 18:15 - 19:45 Uhr (ab 17.01.2017).
 
 In diesen Kurs können Sie nach vorheriger Anmeldung jederzeit einsteigen.
 
@@ -22,7 +22,7 @@ Die meisten Krankenkassen bezuschussen den Kurs.
 
 ## Yoga nach der Geburt
 
-Dienstags 10:15 - 11:45 Uhr.
+Dienstags 10:15 - 11:45 Uhr (ab 17.01.2017).
 
 In diesen Kurs können Sie nach vorheriger Anmeldung jederzeit einsteigen.
 

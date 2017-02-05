@@ -1,10 +1,10 @@
 ---
 ---
 
-@mixin box-shadow($x: 2px, $y: 2px, $blur: 5px, $color: rgba(0,0,0,.4), $inset: "") {
-    -webkit-box-shadow: $inset $x $y $blur $color;
-    -moz-box-shadow:    $inset $x $y $blur $color;
-    box-shadow:         $inset $x $y $blur $color;
+@mixin box-shadow($x: 3px, $y: 3px, $blur: 3px, $spread: 0px, $color: rgba(0,0,0,.5)) {
+    -webkit-box-shadow: $x $y $blur $spread $color;
+    -moz-box-shadow:    $x $y $blur $spread $color;
+    box-shadow:         $x $y $blur $spread $color;
 }
 
 // Colors
@@ -112,7 +112,7 @@ article {
     max-width: 100%;
     margin-left:auto;
     margin-right:auto;
-    @include box-shadow(5px 5px 5px rgba(0,0,0,.5));
+    @include box-shadow;
   }
 
   p.center {
@@ -161,7 +161,7 @@ ul{
     border-bottom: 64px solid $dark_2;
   }
   top: $logo_border;
-  @include box-shadow(0px 2px 5px rgba(0,0,0,.5));
+  @include box-shadow(0px, 2px, 5px);
   @media only screen and (min-width: 768px) and (max-width: 895px) {
     height: $logo_height - 2 * $logo_border + 60px;
   }
@@ -228,7 +228,7 @@ ul{
   width: 100%;
   height: $logo_height;
   border: $logo_border solid #cccccc;
-  @include box-shadow(5px 5px 5px rgba(0,0,0,.5));
+  @include box-shadow(5px, 5px, 5px);
   background: url(../images/logo.jpg) $dark_1;
   background-position:center;
   background-repeat:no-repeat;

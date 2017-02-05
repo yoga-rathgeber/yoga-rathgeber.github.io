@@ -29,5 +29,5 @@ Seit 1997 besuche ich kontinuierlich Weiterbildungen und Supervisionen bei meine
 Herausgegeben von meinen Lehrern **Dr. Imogen Dalmann** und **Martin Soder**:
 
 * [Viveka](http://viveka.de) - Hefte für Yoga
-* [Warum Yoga?](http://www.warumyoga.de) - Über Praxis, Konzepte und Hintergründe
-* [Heilkust Yoga](http://www.heilkunstyoga.de) - Yogatherapie heute: Konzepte, Praxis, Perspektiven
+* [Warum Yoga?](http://warumyoga.de) - Über Praxis, Konzepte und Hintergründe
+* [Heilkust Yoga](http://heilkunstyoga.de) - Yogatherapie heute: Konzepte, Praxis, Perspektiven

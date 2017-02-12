@@ -70,7 +70,7 @@ sidebar:
        <ul>
          <li class="home"><a href='{{ site.baseurl }}'>Home</a></li>
          {% for cat in layout.sidebar %}
-         <li><a href='{{ cat }}'>{{ cat | replace:'_',' ' | capitalize }}</a></li>
+         <li><a href='{{ cat }}/'>{{ cat | replace:'_',' ' | capitalize }}</a></li>
          {% endfor %}
         </ul>
       </div>

@@ -211,5 +211,21 @@ Selbstverständlich können Sie diesem Einführungskurs weitere Stunden (je 40 E
   }
   </script>
 
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Course",
+    "description": "{% include schwangere.md %}",
+    "genre": "Yoga",
+    "name": "Yoga für Schwangere",
+    "provider": {
+      "@type": "Organization",
+      "name": "{{ site.title }}: {{ site.subtitle }}",
+      "url": "{{ site.url }}"
+    },
+    "url": "{{ site.url }}/gruppenunterricht/"
+  }
+  </script>
+
 </body>
 </html>

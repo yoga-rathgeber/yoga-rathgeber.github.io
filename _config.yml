@@ -1,25 +1,10 @@
-markdown: rdiscount
-pygments: true
-safe: true
-exclude:
-  - CNAME
-  - Gemfile
-  - Gemfile.lock
-  - Procfile
-  - Rakefile
-  - README.md
-  - config.rb
-  - sass
-permalink: :title
-
-# Site configuration
-baseurl: http://yoga-rathgeber.de/
-url: http://yoga-rathgeber.de
-domain: yoga-rathgeber.de
+---
 title: Yoga im Aischgrund
-subtitle: Gabriele Rathgeber - Yogalehrerin BDY/EYU
-author: Gabriele Rathgeber
-email: gabriele.rathgeber@gmx.de
-phone: 09195/8406
-feedurl: atom.xml
-analytics_id: UA-37960718-1
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true

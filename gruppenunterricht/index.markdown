@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Yoga - Gruppenunterricht
+layout: default
 detail: 1
 ---
 

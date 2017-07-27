@@ -1,6 +1,5 @@
 ---
 layout: default
-#title: Yoga im Aischgrund
 ---
 
 <p class="center">

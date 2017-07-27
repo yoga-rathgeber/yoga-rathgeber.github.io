@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Yoga - Einzelunterricht
+layout: default
 ---
 
 Wenn Sie eine speziell auf Ihre Bedürfnisse *abgestimmte Yogapraxis* wünschen, die Sie zu Hause *selbstständig üben* können, weil Sie beispielsweise Ihre Gesundheit erhalten oder verbessern möchten oder ruhiger werden und Stress abbauen wollen, so kann schon eine regelmäßige Übungszeit von 15 oder 20 Minuten eine *positive Veränderung* bewirken.

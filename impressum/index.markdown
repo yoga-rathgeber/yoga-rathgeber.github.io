@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Impressum
+layout: default
 ---
 
 ## Verantwortlich für den Inhalt

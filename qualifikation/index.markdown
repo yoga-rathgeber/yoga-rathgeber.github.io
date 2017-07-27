@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Meine Qualifikation
+layout: default
 ---
 
 * Yogalehrerin [BDY](http://yoga.de)/[EYU](http://yogaeurop.com)

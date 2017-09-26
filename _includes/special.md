@@ -1,8 +1,8 @@
 ## Yoga für Schwangere
 
-Dienstags 18:15 - 19:45 Uhr (ab 25.04.2017).
+Dienstags 18:15 - 19:45 Uhr.
 
-In diesen Kurs können Sie nach vorheriger Anmeldung jederzeit einsteigen.
+Dies ist ein fortlaufender Kurs, in den Sie nach vorheriger Anmeldung jederzeit einsteigen können.
 
 **Kursort:** Pfarrzentrum Adelsdorf  
 **Kursdauer:** 8 Termine  

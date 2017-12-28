@@ -12,4 +12,4 @@ Hauptstraße 21
 <tr><th>Freitag</th><td>8:30-10:00 Uhr<br />10:15-11:45 Uhr</td><td>ab 06.10.2017</td></tr>
 </table>
 
-Ein Kurs umfasst 10 Termine und kostet 80€.
+Ein Kurs umfasst 10 Termine und kostet 90€.

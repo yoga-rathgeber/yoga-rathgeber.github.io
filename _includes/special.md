@@ -6,7 +6,7 @@ Dies ist ein fortlaufender Kurs, in den Sie nach vorheriger Anmeldung jederzeit 
 
 **Kursort:** Pfarrzentrum Adelsdorf  
 **Kursdauer:** 8 Termine  
-**Kursgebühr:** 64€
+**Kursgebühr:** 72€
 
 {% if page.detail %}
 {% include schwangere.md %}

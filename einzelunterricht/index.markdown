@@ -20,11 +20,11 @@ Dies bildet die Grundlage für ein erstes Übungsprogramm, das Sie in schriftlic
 **Die weiteren Stunden:**
 In den folgenden fünf Stunden wird Ihre jeweilige Erfahrung berücksichtigt und Ihre Yogapraxis entsprechend verändert.
 
-Der Einführungskurs (200 EUR) umfasst somit sechs Stunden à 60 Minuten, die sich auf einen Zeitraum von drei bis vier Monaten verteilen.
+Der Einführungskurs (220€) umfasst somit sechs Stunden à 60 Minuten, die sich auf einen Zeitraum von drei bis vier Monaten verteilen.
 
 Auf diese Weise entsteht im Laufe unserer Zusammenarbeit eine ganz auf Sie zugeschnittene Yogapraxis.
 
-Selbstverständlich können Sie diesem Einführungskurs weitere Stunden (je 40 EUR) folgen lassen.
+Selbstverständlich können Sie diesem Einführungskurs weitere Stunden (je 45€) folgen lassen.
 
 ## Anfahrt
 

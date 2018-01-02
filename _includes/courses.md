@@ -4,7 +4,7 @@ Katholisches Pfarrzentrum
 Hauptstraße 21  
 91325 Adelsdorf
 
-## Herbst-Kurse 2017
+## Winter-Kurse 2018
 
 <table>
 <tr><th>Mittwoch</th><td>8:30-10:00 Uhr<br />10:15-11:45 Uhr</td><td>ab 10.01.2018</td></tr>

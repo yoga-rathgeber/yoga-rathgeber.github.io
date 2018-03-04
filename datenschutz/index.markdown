@@ -566,7 +566,7 @@ Ferner besteht für die betroffene Person die Möglichkeit, einer Erfassung der
 durch Google Analytics erzeugten, auf eine Nutzung dieser Internetseite
 bezogenen Daten sowie der Verarbeitung dieser Daten durch Google zu
 widersprechen und eine solche zu verhindern. Hierzu muss die betroffene Person
-ein Browser-Add-On unter dem Link https://tools.google.com/dlpage/gaoptout
+ein Browser-Add-On unter dem Link <https://tools.google.com/dlpage/gaoptout>
 herunterladen und installieren. Dieses Browser-Add-On teilt Google Analytics
 über JavaScript mit, dass keine Daten und Informationen zu den Besuchen von
 Internetseiten an Google Analytics übermittelt werden dürfen. Die Installation
@@ -580,10 +580,10 @@ oder deaktiviert wird, besteht die Möglichkeit der Neuinstallation oder der
 erneuten Aktivierung des Browser-Add-Ons.
 
 Weitere Informationen und die geltenden Datenschutzbestimmungen von Google
-können unter https://www.google.de/intl/de/policies/privacy/ und unter
-http://www.google.com/analytics/terms/de.html abgerufen werden. Google Analytics
-wird unter diesem Link https://www.google.com/intl/de_de/analytics/ genauer
-erläutert.
+können unter <https://www.google.de/intl/de/policies/privacy/> und unter
+<http://www.google.com/analytics/terms/de.html> abgerufen werden. Google
+Analytics wird unter diesem Link <https://www.google.com/intl/de_de/analytics/>
+genauer erläutert.
 
 ## Rechtsgrundlage der Verarbeitung
 

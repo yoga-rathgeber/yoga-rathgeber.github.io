@@ -3,16 +3,13 @@ layout: default
 title: Datenschutzerklärung
 ---
 
-Wir freuen uns sehr über Ihr Interesse an unserem Unternehmen. Datenschutz hat
-einen besonders hohen Stellenwert für die Geschäftsleitung der Yoga im
-Aischgrund. Eine Nutzung der Internetseiten der Yoga im Aischgrund ist
-grundsätzlich ohne jede Angabe personenbezogener Daten möglich. Sofern eine
-betroffene Person besondere Services unseres Unternehmens über unsere
-Internetseite in Anspruch nehmen möchte, könnte jedoch eine Verarbeitung
-personenbezogener Daten erforderlich werden. Ist die Verarbeitung
-personenbezogener Daten erforderlich und besteht für eine solche Verarbeitung
-keine gesetzliche Grundlage, holen wir generell eine Einwilligung der
-betroffenen Person ein.
+Eine Nutzung der Internetseiten der Yoga im Aischgrund ist grundsätzlich ohne
+jede Angabe personenbezogener Daten möglich. Sofern eine betroffene Person
+besondere Services unseres Unternehmens über unsere Internetseite in Anspruch
+nehmen möchte, könnte jedoch eine Verarbeitung personenbezogener Daten
+erforderlich werden. Ist die Verarbeitung personenbezogener Daten erforderlich
+und besteht für eine solche Verarbeitung keine gesetzliche Grundlage, holen wir
+generell eine Einwilligung der betroffenen Person ein.
 
 Die Verarbeitung personenbezogener Daten, beispielsweise des Namens, der
 Anschrift, E-Mail-Adresse oder Telefonnummer einer betroffenen Person, erfolgt
@@ -373,15 +370,12 @@ entsprechend den gesetzlichen Vorschriften gesperrt oder gelöscht.
     *   Die Richtigkeit der personenbezogenen Daten wird von der betroffenen
         Person bestritten, und zwar für eine Dauer, die es dem Verantwortlichen
         ermöglicht, die Richtigkeit der personenbezogenen Daten zu überprüfen.
-
     *   Die Verarbeitung ist unrechtmäßig, die betroffene Person lehnt die
         Löschung der personenbezogenen Daten ab und verlangt stattdessen die
         Einschränkung der Nutzung der personenbezogenen Daten.
-
     *   Der Verantwortliche benötigt die personenbezogenen Daten für die Zwecke
         der Verarbeitung nicht länger, die betroffene Person benötigt sie jedoch
         zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
-
     *   Die betroffene Person hat Widerspruch gegen die Verarbeitung gem. Art.
         21 Abs. 1 DS-GVO eingelegt und es steht noch nicht fest, ob die
         berechtigten Gründe des Verantwortlichen gegenüber denen der betroffenen

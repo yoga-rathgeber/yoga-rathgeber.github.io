@@ -4,12 +4,10 @@ title: Datenschutzerklärung
 ---
 
 Eine Nutzung der Internetseiten der Yoga im Aischgrund ist grundsätzlich ohne
-jede Angabe personenbezogener Daten möglich. Sofern eine betroffene Person
-besondere Services unseres Unternehmens über unsere Internetseite in Anspruch
-nehmen möchte, könnte jedoch eine Verarbeitung personenbezogener Daten
-erforderlich werden. Ist die Verarbeitung personenbezogener Daten erforderlich
-und besteht für eine solche Verarbeitung keine gesetzliche Grundlage, holen wir
-generell eine Einwilligung der betroffenen Person ein.
+jede Angabe personenbezogener Daten möglich. Ist die Verarbeitung
+personenbezogener Daten erforderlich und besteht für eine solche Verarbeitung
+keine gesetzliche Grundlage, holen wir generell eine Einwilligung der
+betroffenen Person ein.
 
 Die Verarbeitung personenbezogener Daten, beispielsweise des Namens, der
 Anschrift, E-Mail-Adresse oder Telefonnummer einer betroffenen Person, erfolgt
@@ -20,15 +18,6 @@ Unternehmen die Öffentlichkeit über Art, Umfang und Zweck der von uns erhobene
 genutzten und verarbeiteten personenbezogenen Daten informieren. Ferner werden
 betroffene Personen mittels dieser Datenschutzerklärung über die ihnen
 zustehenden Rechte aufgeklärt.
-
-Die Yoga im Aischgrund hat als für die Verarbeitung Verantwortlicher zahlreiche
-technische und organisatorische Maßnahmen umgesetzt, um einen möglichst
-lückenlosen Schutz der über diese Internetseite verarbeiteten personenbezogenen
-Daten sicherzustellen. Dennoch können Internetbasierte Datenübertragungen
-grundsätzlich Sicherheitslücken aufweisen, sodass ein absoluter Schutz nicht
-gewährleistet werden kann. Aus diesem Grund steht es jeder betroffenen Person
-frei, personenbezogene Daten auch auf alternativen Wegen, beispielsweise
-telefonisch, an uns zu übermitteln.
 
 ## Begriffsbestimmungen
 

@@ -4,12 +4,12 @@ Katholisches Pfarrzentrum
 Hauptstraße 21  
 91325 Adelsdorf
 
-## Herbst-Kurse 2018
+## Winter-Kurse 2019
 
 <table>
-<tr><th>Mittwoch</th><td>8:30-10:00 Uhr<br />10:15-11:45 Uhr</td><td>ab 26.09.2018</td></tr>
-<tr><th>Donnerstag</th><td>18:15-19:45 Uhr<br />20:00-21:30 Uhr</td><td>ab 27.09.2018</td></tr>
-<tr><th>Freitag</th><td>8:30-10:00 Uhr<br />10:15-11:45 Uhr</td><td>ab 28.09.2018</td></tr>
+<tr><th>Mittwoch</th><td>8:30-10:00 Uhr<br />10:15-11:45 Uhr</td><td>ab 16.01.2019</td></tr>
+<tr><th>Donnerstag</th><td>18:15-19:45 Uhr<br />20:00-21:30 Uhr</td><td>ab 17.01.2019</td></tr>
+<tr><th>Freitag</th><td>8:30-10:00 Uhr<br />10:15-11:45 Uhr</td><td>ab 18.01.2019</td></tr>
 </table>
 
 Ein Kurs umfasst 10 Termine und kostet 90€.

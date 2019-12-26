@@ -1,6 +1,6 @@
 ## Yoga für Schwangere
 
-Dienstags 18:15 - 19:45 Uhr (ab 24.09.2019).
+Dienstags 18:15 - 19:45 Uhr (ab 14.01.2020).
 
 Dies ist ein fortlaufender Kurs, in den Sie nach vorheriger Anmeldung jederzeit einsteigen können.
 

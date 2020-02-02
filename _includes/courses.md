@@ -4,7 +4,7 @@ Katholisches Pfarrzentrum
 Hauptstraße 21  
 91325 Adelsdorf
 
-## Winter-Frühjahr-Kurse 2019
+## Winter-Frühjahr-Kurse 2020
 
 > **Bitte beachten: die Kurse sind leider alle bereits ausgebucht.**
 

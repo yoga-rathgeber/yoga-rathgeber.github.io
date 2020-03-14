@@ -3,6 +3,10 @@ layout: default
 #title: Yoga im Aischgrund
 ---
 
+> # Ankünding
+> Aufgrund der aktuellen Coronavirus-Situation sind alle Kurse vorübergehend
+> ausgesetzt bis voraussichtlich 20. April.
+
 <p class="center">
 Yogaunterricht in der Tradition von<br />
 <strong>Krishnamacharya</strong><br />

@@ -3,6 +3,8 @@ layout: default
 title: Yoga - Einzelunterricht
 ---
 
+> **Wichtig:** Bitte kommen Sie mit Mund-Nasen-Schutz und bringen Sie eine eigene Matte mit
+
 Wenn Sie eine speziell auf Ihre Bedürfnisse *abgestimmte Yogapraxis* wünschen, die Sie zu Hause *selbstständig üben* können, weil Sie beispielsweise Ihre Gesundheit erhalten oder verbessern möchten oder ruhiger werden und Stress abbauen wollen, so kann schon eine regelmäßige Übungszeit von 15 oder 20 Minuten eine *positive Veränderung* bewirken.
 
 Der Einzelunterricht, bei dem ein Lehrer einen einzelnen Schüler unterrichtet, folgt einer sehr langen Yogatradition.
@@ -20,11 +22,11 @@ Dies bildet die Grundlage für ein erstes Übungsprogramm, das Sie in schriftlic
 **Die weiteren Stunden:**
 In den folgenden fünf Stunden wird Ihre jeweilige Erfahrung berücksichtigt und Ihre Yogapraxis entsprechend verändert.
 
-Der Einführungskurs (220€) umfasst somit sechs Stunden à 60 Minuten, die sich auf einen Zeitraum von drei bis vier Monaten verteilen.
+Der Einführungskurs (220€) umfasst somit sechs Stunden à 60 Minuten, die sich auf einen Zeitraum von idealerweise drei bis vier Monaten verteilen, aber spätestens innerhal eines Jahres abgeschlossen sein sollten.
 
 Auf diese Weise entsteht im Laufe unserer Zusammenarbeit eine ganz auf Sie zugeschnittene Yogapraxis.
 
-Selbstverständlich können Sie diesem Einführungskurs weitere Stunden (je 45€) folgen lassen.
+Selbstverständlich können Sie diesem Einführungskurs ein weiteres Setting oder einzelne Termine (je 45€) folgen lassen.
 
 ## Anfahrt
 

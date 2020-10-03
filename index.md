@@ -21,7 +21,7 @@ Frankenring 70
 
 # [Gruppenunterricht](gruppenunterricht)
 
-Dieser Unterricht findet in **kleinen Gruppen** mit maximal 10 Personen statt.
+Dieser Unterricht findet in **kleinen Gruppen** mit maximal 12 Personen statt.
 
 {% capture courses %}{% include courses.md %}{% endcapture %}
 {{ courses | markdownify }}

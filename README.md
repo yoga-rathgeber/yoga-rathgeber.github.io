@@ -3,17 +3,12 @@ Install dependencies:
 bundle install
 ```
 
-See all rake tasks:
+Build the site:
 ```
-rake -T
-```
-
-Start server, serve content (but its not transforming scss!)
-```
-rake preview
+jekyll build
 ```
 
-Run compass and jekyll server
+Preview the site:
 ```
-foreman start
+jekyll serve -b '/'
 ```

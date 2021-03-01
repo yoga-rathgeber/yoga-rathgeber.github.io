@@ -1,16 +1,18 @@
+> **Bitte beachten: aktuell finden alle Kurse per Video-Konferenz statt.**
+
 ## Kursort
 
 Katholisches Pfarrzentrum  
 Hauptstraße 21  
 91325 Adelsdorf
 
-## Herbst-Kurse 2020
+## Online-Kurse Winter 2021
 
 > **Bitte beachten: die Kurse sind leider alle bereits ausgebucht.**
 
 <table>
-<tr><th>Mittwoch</th><td>8:30-10:00 Uhr<br />10:30-12:00 Uhr</td><td>ab 07.10.2020</td></tr>
-<tr><th>Freitag</th><td>8:30-10:00 Uhr<br />10:30-12:00 Uhr</td><td>ab 09.10.2020</td></tr>
+<tr><th>Mittwoch</th><td>9:00-10:30 Uhr</td><td>ab 17.02.2021</td></tr>
+<tr><th>Freitag</th><td>9:00-10:30 Uhr</td><td>ab 19.02.2021</td></tr>
 </table>
 
 Ein Kurs umfasst 8 Termine und kostet 72€.

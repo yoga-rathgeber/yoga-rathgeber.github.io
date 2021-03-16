@@ -8,8 +8,6 @@ Hauptstraße 21
 
 ## Online-Kurse Winter 2021
 
-> **Bitte beachten: die Kurse sind leider alle bereits ausgebucht.**
-
 <table>
 <tr><th>Mittwoch</th><td>9:00-10:30 Uhr</td><td>ab 17.02.2021</td></tr>
 <tr><th>Freitag</th><td>9:00-10:30 Uhr</td><td>ab 19.02.2021</td></tr>

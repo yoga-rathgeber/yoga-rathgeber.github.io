@@ -26,9 +26,6 @@ Dieser Unterricht findet in **kleinen Gruppen** mit maximal 12 Personen statt.
 {% capture courses %}{% include courses.md %}{% endcapture %}
 {{ courses | markdownify }}
 
-{% capture special %}{% include special.md %}{% endcapture %}
-{{ special | markdownify }}
-
 # Kontakt
 
 Gabriele Rathgeber  

@@ -7,8 +7,6 @@ detail: 1
 {% capture courses %}{% include courses.md %}{% endcapture %}
 {{ courses | markdownify }}
 
-> **Wichtig:** Bitte kommen Sie mit Mund-Nasen-Schutz und bringen Sie eine eigene Matte mit
-
 Dieser Unterricht findet in **kleinen Gruppen** mit maximal 12 Personen statt.
 
 ![Gruppenunterricht](images/group1.jpg)

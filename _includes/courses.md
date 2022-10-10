@@ -1,8 +1,8 @@
-## Kursort
+## Online-Kurs Herbst 2022
 
-Katholisches Pfarrzentrum  
-Hauptstraße 21  
-91325 Adelsdorf
+Donnerstag, 19:15 - 20:45 Uhr, ab 13.10.2022
+
+Der Kurs umfasst 8 Termine und kostet 72€.
 
 ## Kurse Herbst 2022
 
@@ -12,3 +12,9 @@ Hauptstraße 21
 </table>
 
 Ein Kurs umfasst 8 Termine und kostet 72€.
+
+### Kursort
+
+Katholisches Pfarrzentrum  
+Hauptstraße 21  
+91325 Adelsdorf

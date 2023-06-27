@@ -3,8 +3,6 @@ layout: default
 title: Yoga - Einzelunterricht
 ---
 
-> **Wichtig:** Bitte kommen Sie mit Mund-Nasen-Schutz und bringen Sie eine eigene Matte mit
-
 Wenn Sie eine speziell auf Ihre Bedürfnisse *abgestimmte Yogapraxis* wünschen, die Sie zu Hause *selbstständig üben* können, weil Sie beispielsweise Ihre Gesundheit erhalten oder verbessern möchten oder ruhiger werden und Stress abbauen wollen, so kann schon eine regelmäßige Übungszeit von 15 oder 20 Minuten eine *positive Veränderung* bewirken.
 
 Der Einzelunterricht, bei dem ein Lehrer einen einzelnen Schüler unterrichtet, folgt einer sehr langen Yogatradition.

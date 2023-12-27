@@ -59,56 +59,6 @@ sidebar:
   <link href='images/apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114' type='image/png' />
 
   <link href="https://plus.google.com/105967573150332682882" rel="publisher" />
-
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org/",
-      "@id": "https://yoga-rathgeber.de/",
-      "@type": "Course",
-      "name": "Yoga im Aischgrund - Gruppenunterricht",
-      "description": "Gabriele Rathgeber, Yogalehrerin BDY/EYU, Viniyoga in der Tradition von Krishnamacharya und T.K.V. Desikachar. Yoga Kurse, Gruppenunterricht, Einzelunterricht in Adelsdorf im Aischgrund in Mittelfranken.",
-      "publisher": {
-        "@type": "Organization",
-        "name": "Yoga im Aischgrund",
-        "url": "https://yoga-rathgeber.de/"
-      },
-      "provider": {
-        "@type": "Organization",
-        "name": "Yoga im Aischgrund",
-        "url": "https://yoga-rathgeber.de/"
-      },
-      "image": [
-        "https://yoga-rathgeber.de/images/group1.jpg",
-        "https://yoga-rathgeber.de/images/group2.jpg"
-      ],
-      "offers": [{
-        "@type": "Offer",
-        "category": "Paid",
-        "priceCurrency": "EUR",
-        "price": 80
-      }],
-      "educationalLevel": "Beginner",
-      "about": ["Yoga Praxis", "Beweglichkeit", "Atemtechnik"],
-      "teaches": ["Langsame Bewegungsabläufe, die in Verbindung mit dem Atem geübt werden",
-                  "Meditationen und spezielle Atemübungen"],
-      "inLanguage": "de",
-      "hasCourseInstance": [{
-        "@type": "CourseInstance",
-        "courseMode": "Onsite",
-        "location": "Katholisches Pfarrzentrum Adelsdorf",
-        "courseSchedule": {
-          "@type": "Schedule",
-          "repeatFrequency": "Weekly",
-          "repeatCount": 8,
-        },
-        "instructor": [{
-          "@type": "Person",
-          "name": "Gabriele Rathgeber",
-          "description": "Yogalehrerin BDY/EYU",
-        }]
-      }]
-    }
-  </script>
 </head>
 <body>
 
@@ -189,26 +139,59 @@ sidebar:
     src="//cdn.jsdelivr.net/foundation/4.3.1/js/vendor/custom.modernizr.js">
   </script>
 
+  <!-- Course metadata (https://developers.google.com/search/docs/appearance/structured-data/course-info) -->
   <script type="application/ld+json">
   {
-    "@context": "http://schema.org",
+    "@context": "https://schema.org/",
+    "@id": "{{ site.url }}/gruppenunterricht/",
     "@type": "Course",
-    "description": "
-Dieser Unterricht findet in kleinen Gruppen mit maximal 10 Personen statt.
+    "name": "Yoga im Aischgrund - Gruppenunterricht",
+    "description": "Unterricht in kleinen Gruppen mit maximal 12 Personen, in der Tradition von T. Krishnamacharya und T.K.V. Desikachar.
+    
+Langsame Bewegungsabläufe, in Verbindung mit dem Atem geübt. Je nach Möglichkeiten der Teilnehmer/innen werden auch unterschiedliche Variationen einer Yogahaltung angeboten.
 
-Langsame Bewegungsabläufe, die in Verbindung mit dem Atem geübt werden, bilden den größten Teil der Yogastunde. Je nach den persönlichen Möglichkeiten der einzelnen Teilnehmer/innen werden auch unterschiedliche Variationen einer Yogahaltung angeboten, was die positive Wirkung des Übens unterstützt. Diese Art des Unterrichts kennzeichnet u.a. die Tradition von T. Krishnamacharya und T.K.V. Desikachar, in der ich ausgebildet wurde.
-
-Auch spezielle Atemübungen oder auch kleine Meditationen können je nach Interesse einer Gruppe in die Yogastunde aufgenommen werden.
-
-Die Kurse werden von den meisten Krankenkassen bezuschusst.",
-    "genre": "Yoga",
-    "image": "{{ site.url }}/images/group1.jpg",
-    "name": "Yoga Gruppenunterricht",
+Auch spezielle Atemübungen oder auch kleine Meditationen können bei Interesse in die Yogastunde aufgenommen werden. Die Kurse werden von den meisten Krankenkassen bezuschusst.",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Yoga im Aischgrund",
+      "url": "{{ site.url }}/"
+    },
     "provider": {
       "@type": "Organization",
-      "name": "{{ site.title }}: {{ site.subtitle }}",
-      "url": "{{ site.url }}"
+      "name": "Yoga im Aischgrund",
+      "url": "{{ site.url }}/"
     },
+    "image": [
+      "{{ site.url }}/images/group1.jpg",
+      "{{ site.url }}/images/group2.jpg"
+    ],
+    "offers": [{
+      "@type": "Offer",
+      "category": "Paid",
+      "priceCurrency": "EUR",
+      "price": 80
+    }],
+    "educationalLevel": "Beginner",
+    "about": ["Yoga Praxis", "Beweglichkeit", "Atemtechnik"],
+    "teaches": ["Langsame Bewegungsabläufe, die in Verbindung mit dem Atem geübt werden",
+                "Meditationen und spezielle Atemübungen"],
+    "inLanguage": "de",
+    "hasCourseInstance": [{
+      "@type": "CourseInstance",
+      "courseMode": "Onsite",
+      "location": "Katholisches Pfarrzentrum Adelsdorf",
+      "courseSchedule": {
+        "@type": "Schedule",
+        "repeatFrequency": "Weekly",
+        "repeatCount": 8
+      },
+      "instructor": [{
+        "@type": "Person",
+        "name": "Gabriele Rathgeber",
+        "description": "Yogalehrerin BDY/EYU"
+      }]
+    }],
+    "genre": "Yoga",
     "url": "{{ site.url }}/gruppenunterricht/"
   }
   </script>
@@ -216,69 +199,60 @@ Die Kurse werden von den meisten Krankenkassen bezuschusst.",
   <script type="application/ld+json">
   {
     "@context": "http://schema.org",
+    "@id": "{{ site.url }}/einzelunterricht/",
     "@type": "Course",
-    "description": "
-Wenn Sie eine speziell auf Ihre Bedürfnisse abgestimmte Yogapraxis wünschen, die Sie zu Hause selbstständig üben können, weil Sie beispielsweise Ihre Gesundheit erhalten oder verbessern möchten oder ruhiger werden und Stress abbauen wollen, so kann schon eine regelmäßige Übungszeit von 15 oder 20 Minuten eine positive Veränderung bewirken.
+    "name": "Yoga im Aischgrund - Einzelunterricht",
+    "description": "Speziell auf Ihre Bedürfnisse abgestimmte Yogapraxis, die Sie zu Hause selbstständig üben können.
 
-Der Einzelunterricht, bei dem ein Lehrer einen einzelnen Schüler unterrichtet, folgt einer sehr langen Yogatradition.
+Beim ersten Treffen lerne ich Sie und Ihre Wünsche an eine Yogapraxis kennen, Ihre körperlichen und zeitlichen Möglichkeiten und etwaigen Beschwerden. Dies bildet die Grundlage für ein erstes Übungsprogramm.
 
-Ihr persönliches Anliegen, das Sie zum Yoga führt, steht  ganz im Mittelpunkt dieser individuellen Arbeit, für die sich folgende Vorgehensweise bewährt hat:
+Die weiteren Stunden berücksichtigen Ihre jeweilige Erfahrung und verändern Ihre Yogapraxis entsprechend.
 
-Die erste Stunde:
-Beim ersten Treffen lerne ich Sie und Ihre Wünsche an eine Yogapraxis kennen, ebenso Ihre körperlichen und zeitlichen Möglichkeiten und etwaigen Beschwerden.
-Dies bildet die Grundlage für ein erstes Übungsprogramm, das Sie in schriftlicher Form erhalten werden.
-
-Die weiteren Stunden:
-In den folgenden fünf Stunden wird Ihre jeweilige Erfahrung berücksichtigt und Ihre Yogapraxis entsprechend verändert.
-
-Der Einführungskurs (200 EUR) umfasst somit sechs Stunden à 60 Minuten, die sich auf einen Zeitraum von drei bis vier Monaten verteilen.
-
-Auf diese Weise entsteht im Laufe unserer Zusammenarbeit eine ganz auf Sie zugeschnittene Yogapraxis.
-
-Selbstverständlich können Sie diesem Einführungskurs weitere Stunden (je 40 EUR) folgen lassen.",
-    "genre": "Yoga",
-    "image": "{{ site.url }}/images/single.jpg",
-    "name": "Yoga Einzelunterricht",
+Der Einführungskurs (250€) umfasst 6 Stunden à 60 Minuten. Weitere Stunden je 50€.",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Yoga im Aischgrund",
+      "url": "{{ site.url }}/"
+    },
     "provider": {
       "@type": "Organization",
-      "name": "{{ site.title }}: {{ site.subtitle }}",
-      "url": "{{ site.url }}"
+      "name": "Yoga im Aischgrund",
+      "url": "{{ site.url }}/"
     },
+    "image": [
+      "{{ site.url }}/images/single.jpg"
+    ],
+    "offers": [{
+      "@type": "Offer",
+      "category": "Paid",
+      "priceCurrency": "EUR",
+      "price": 250
+    }],
+    "educationalLevel": "Beginner",
+    "about": ["Yoga Praxis", "Beweglichkeit", "Atemtechnik"],
+    "teaches": ["Langsame Bewegungsabläufe, die in Verbindung mit dem Atem geübt werden",
+                "Meditationen und spezielle Atemübungen"],
+    "inLanguage": "de",
+    "hasCourseInstance": [{
+      "@type": "CourseInstance",
+      "courseMode": "Onsite",
+      "location": "Frankenring 70, 91325 Adelsdorf",
+      "courseSchedule": {
+        "@type": "Schedule",
+        "repeatFrequency": "Weekly",
+        "repeatCount": 6
+      },
+      "instructor": [{
+        "@type": "Person",
+        "name": "Gabriele Rathgeber",
+        "description": "Yogalehrerin BDY/EYU"
+      }]
+    }],
+    "genre": "Yoga",
     "url": "{{ site.url }}/einzelunterricht/"
   }
   </script>
-
-  <script type="application/ld+json">
-  {
-    "@context": "http://schema.org",
-    "@type": "Course",
-    "description": "{% include schwangere.md %}",
-    "genre": "Yoga",
-    "name": "Yoga für Schwangere",
-    "provider": {
-      "@type": "Organization",
-      "name": "{{ site.title }}: {{ site.subtitle }}",
-      "url": "{{ site.url }}"
-    },
-    "url": "{{ site.url }}/gruppenunterricht/"
-  }
-  </script>
-
-  <script type="application/ld+json">
-  {
-    "@context": "http://schema.org",
-    "@type": "Course",
-    "description": "{% include geburt.md %}",
-    "genre": "Yoga",
-    "name": "Yoga nach der Geburt",
-    "provider": {
-      "@type": "Organization",
-      "name": "{{ site.title }}: {{ site.subtitle }}",
-      "url": "{{ site.url }}"
-    },
-    "url": "{{ site.url }}/gruppenunterricht/"
-  }
-  </script>
+  <!-- End Course metadata -->
 
 </body>
 </html>

@@ -1,11 +1,11 @@
-## Kurse Winter 2025
+## Kurse Sommer 2025
 
-<table>
-<tr><th>Mittwoch</th><td>08:30-10:00 Uhr<br />10:15-11:45 Uhr</td><td>ab 29.01.2025</td></tr>
-<tr><th>Freitag</th><td>08:30-10:00 Uhr<br />10:15-11:45 Uhr</td><td>ab 31.01.2025</td></tr>
-</table>
+| Tag      | Zeiten                           | Beginn        |
+|----------|----------------------------------|---------------|
+| Mittwoch | 08:30-10:00 Uhr, 10:15-11:45 Uhr | ab 18.06.2025 |
+| Freitag  | 08:30-10:00 Uhr, 10:15-11:45 Uhr | ab 20.06.2025 |
 
-Ein Kurs umfasst 10 Termine und kostet 100€.
+Ein Kurs umfasst 8 Termine und kostet 80€.
 
 ### Kursort
 

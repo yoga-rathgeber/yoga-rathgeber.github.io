@@ -1,9 +1,9 @@
-## Kurse Sommer 2025
+## Kurse Herbst 2025
 
 | Tag      | Zeiten                           | Beginn        |
 |----------|----------------------------------|---------------|
-| Mittwoch | 08:30-10:00 Uhr, 10:15-11:45 Uhr | ab 18.06.2025 |
-| Freitag  | 08:30-10:00 Uhr, 10:15-11:45 Uhr | ab 20.06.2025 |
+| Mittwoch | 08:30-10:00 Uhr, 10:15-11:45 Uhr | ab 08.10.2025 |
+| Freitag  | 08:30-10:00 Uhr, 10:15-11:45 Uhr | ab 10.10.2025 |
 
 Ein Kurs umfasst 8 Termine und kostet 80€.
 
